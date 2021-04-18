@@ -1,0 +1,9 @@
+C:\Users\srika\source\repos\NavtechTest\DataManagement.Entities\bin\Debug\netstandard2.0\DataManagement.Entities.deps.json
+C:\Users\srika\source\repos\NavtechTest\DataManagement.Entities\bin\Debug\netstandard2.0\DataManagement.Entities.dll
+C:\Users\srika\source\repos\NavtechTest\DataManagement.Entities\bin\Debug\netstandard2.0\DataManagement.Entities.pdb
+C:\Users\srika\source\repos\NavtechTest\DataManagement.Entities\obj\Debug\netstandard2.0\DataManagement.Entities.csprojAssemblyReference.cache
+C:\Users\srika\source\repos\NavtechTest\DataManagement.Entities\obj\Debug\netstandard2.0\DataManagement.Entities.AssemblyInfoInputs.cache
+C:\Users\srika\source\repos\NavtechTest\DataManagement.Entities\obj\Debug\netstandard2.0\DataManagement.Entities.AssemblyInfo.cs
+C:\Users\srika\source\repos\NavtechTest\DataManagement.Entities\obj\Debug\netstandard2.0\DataManagement.Entities.csproj.CoreCompileInputs.cache
+C:\Users\srika\source\repos\NavtechTest\DataManagement.Entities\obj\Debug\netstandard2.0\DataManagement.Entities.dll
+C:\Users\srika\source\repos\NavtechTest\DataManagement.Entities\obj\Debug\netstandard2.0\DataManagement.Entities.pdb

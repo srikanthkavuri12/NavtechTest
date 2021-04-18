@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.0.78" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.2" />
+    <PackageReference Include="System.Runtime" Version="4.3.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DataManagement.Business.Interfaces\DataManagement.Business.Interfaces.csproj" />
+    <ProjectReference Include="..\DataManagement.Business\DataManagement.Business.csproj" />
+    <ProjectReference Include="..\DataManagement.Entities\DataManagement.Entities.csproj" />
+    <ProjectReference Include="..\DataManagement.Repository.Interfaces\DataManagement.Repository.Interfaces.csproj" />
+    <ProjectReference Include="..\DataManagement.Repository\DataManagement.Repository.csproj" />
+  </ItemGroup>
+
+
+</Project>

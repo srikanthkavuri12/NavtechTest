@@ -1,0 +1,16 @@
+C:\Users\srika\source\repos\NavtechTest\DataManagement.Business\bin\Debug\netstandard2.0\DataManagement.Business.deps.json
+C:\Users\srika\source\repos\NavtechTest\DataManagement.Business\bin\Debug\netstandard2.0\DataManagement.Business.dll
+C:\Users\srika\source\repos\NavtechTest\DataManagement.Business\bin\Debug\netstandard2.0\DataManagement.Business.pdb
+C:\Users\srika\source\repos\NavtechTest\DataManagement.Business\bin\Debug\netstandard2.0\DataManagement.Business.Interfaces.dll
+C:\Users\srika\source\repos\NavtechTest\DataManagement.Business\bin\Debug\netstandard2.0\DataManagement.Entities.dll
+C:\Users\srika\source\repos\NavtechTest\DataManagement.Business\bin\Debug\netstandard2.0\DataManagement.Repository.Interfaces.dll
+C:\Users\srika\source\repos\NavtechTest\DataManagement.Business\bin\Debug\netstandard2.0\DataManagement.Business.Interfaces.pdb
+C:\Users\srika\source\repos\NavtechTest\DataManagement.Business\bin\Debug\netstandard2.0\DataManagement.Entities.pdb
+C:\Users\srika\source\repos\NavtechTest\DataManagement.Business\bin\Debug\netstandard2.0\DataManagement.Repository.Interfaces.pdb
+C:\Users\srika\source\repos\NavtechTest\DataManagement.Business\obj\Debug\netstandard2.0\DataManagement.Business.csprojAssemblyReference.cache
+C:\Users\srika\source\repos\NavtechTest\DataManagement.Business\obj\Debug\netstandard2.0\DataManagement.Business.AssemblyInfoInputs.cache
+C:\Users\srika\source\repos\NavtechTest\DataManagement.Business\obj\Debug\netstandard2.0\DataManagement.Business.AssemblyInfo.cs
+C:\Users\srika\source\repos\NavtechTest\DataManagement.Business\obj\Debug\netstandard2.0\DataManagement.Business.csproj.CoreCompileInputs.cache
+C:\Users\srika\source\repos\NavtechTest\DataManagement.Business\obj\Debug\netstandard2.0\DataManagement.Business.csproj.CopyComplete
+C:\Users\srika\source\repos\NavtechTest\DataManagement.Business\obj\Debug\netstandard2.0\DataManagement.Business.dll
+C:\Users\srika\source\repos\NavtechTest\DataManagement.Business\obj\Debug\netstandard2.0\DataManagement.Business.pdb

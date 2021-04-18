@@ -1,0 +1,12 @@
+C:\Users\srika\source\repos\NavtechTest\DataManagement.Business.Interfaces\bin\Debug\netstandard2.0\DataManagement.Business.Interfaces.deps.json
+C:\Users\srika\source\repos\NavtechTest\DataManagement.Business.Interfaces\bin\Debug\netstandard2.0\DataManagement.Business.Interfaces.dll
+C:\Users\srika\source\repos\NavtechTest\DataManagement.Business.Interfaces\bin\Debug\netstandard2.0\DataManagement.Business.Interfaces.pdb
+C:\Users\srika\source\repos\NavtechTest\DataManagement.Business.Interfaces\bin\Debug\netstandard2.0\DataManagement.Entities.dll
+C:\Users\srika\source\repos\NavtechTest\DataManagement.Business.Interfaces\bin\Debug\netstandard2.0\DataManagement.Entities.pdb
+C:\Users\srika\source\repos\NavtechTest\DataManagement.Business.Interfaces\obj\Debug\netstandard2.0\DataManagement.Business.Interfaces.csprojAssemblyReference.cache
+C:\Users\srika\source\repos\NavtechTest\DataManagement.Business.Interfaces\obj\Debug\netstandard2.0\DataManagement.Business.Interfaces.AssemblyInfoInputs.cache
+C:\Users\srika\source\repos\NavtechTest\DataManagement.Business.Interfaces\obj\Debug\netstandard2.0\DataManagement.Business.Interfaces.AssemblyInfo.cs
+C:\Users\srika\source\repos\NavtechTest\DataManagement.Business.Interfaces\obj\Debug\netstandard2.0\DataManagement.Business.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\srika\source\repos\NavtechTest\DataManagement.Business.Interfaces\obj\Debug\netstandard2.0\DataManagement.Business.Interfaces.csproj.CopyComplete
+C:\Users\srika\source\repos\NavtechTest\DataManagement.Business.Interfaces\obj\Debug\netstandard2.0\DataManagement.Business.Interfaces.dll
+C:\Users\srika\source\repos\NavtechTest\DataManagement.Business.Interfaces\obj\Debug\netstandard2.0\DataManagement.Business.Interfaces.pdb
