@@ -42,16 +42,30 @@ namespace DataManagement.WebAPI.Controllers
     public IActionResult Post([FromBody] User user)
     {
             
-                _userManager.AddUser(user);
-            if (user.UserEmail == "User already exists")
+            string email = user.UserEmail;
+               
+            
+             if(email==null)
             {
-                var result = new OkObjectResult(new { message = "User already exists" });
+                var result = new BadRequestObjectResult(new { message = "email is mandatory" });
                 return result;
             }
+            
+           
             else
             {
-                var result = new OkObjectResult(new { message = "New User Added successfully" });
-                return result;
+                _userManager.AddUser(user);
+                if(user.UserEmail == "User already exists")
+                {
+                    var result = new BadRequestObjectResult(new { message = "User already exists" });
+                    return result;
+                }
+                else
+                {
+                    var result = new OkObjectResult(new { message = "New User Added successfully" });
+                    return result;
+                }
+               
             }
         
     }

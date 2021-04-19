@@ -59,8 +59,16 @@ namespace NavtechTest.Controllers
         public IActionResult Post([FromBody] Order order)
         {
             _ordermanager.AddOrder(order);
-            var result = new OkObjectResult(new { message = "New Order Added successfully" });
-            return result;
+            if (order.OrderName != null && order.OrderType!=null )
+            {
+                var result = new OkObjectResult(new { message = "New Order Added successfully" });
+                return result;
+            }
+            else
+            {
+                var result = new BadRequestObjectResult(new { message = "Data is Incorrect" });
+                return result;
+            }
         }
 
         // PUT api/<OrdersController>/5
