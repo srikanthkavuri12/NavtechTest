@@ -10,6 +10,6 @@ namespace DataManagement.Entities
         public string  OrderName { get; set; }
         public string OrderType { get; set; }
         public DateTime OrderCreatedDate { get; set; } = DateTime.Now;
-       
+       public int Pagesize { get; set; }
     }
 }

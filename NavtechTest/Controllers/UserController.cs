@@ -16,7 +16,7 @@ namespace DataManagement.WebAPI.Controllers
     }
     
     [HttpGet]
-    public IEnumerable<User> Get()
+    public IEnumerable<User> Get([FromQuery] string pagesize)
     {
         return _userManager.GetAllUser();
     }

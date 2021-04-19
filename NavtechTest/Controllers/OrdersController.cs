@@ -27,7 +27,7 @@ namespace NavtechTest.Controllers
 
         // GET api/<OrdersController>/5
         [HttpGet("{id}")]
-        public ActionResult<Order> Get(int id)
+        public ActionResult<Order> Get(int id, [FromQuery] int PageSize)
         {
             if (_ordermanager.GetOrderbyId(id) == null)
             {
@@ -36,7 +36,21 @@ namespace NavtechTest.Controllers
             }
             else
             {
-                return _ordermanager.GetOrderbyId(id);
+                int id1 = _ordermanager.GetOrderbyId(id).OrderId;
+                int PageSize1 = _ordermanager.GetOrderbyId(id).Pagesize;
+                if (id1 == id && PageSize1 == PageSize)
+                {
+                    return _ordermanager.GetOrderbyId(id);
+                }
+                else if(id1 == id && PageSize1 != PageSize)
+                {
+                    var result = new NotFoundObjectResult(new { message = "PageSize does not exist "+"  Page Size for Order  "+id1+" is "+PageSize1 });
+                    return result ;
+                }
+                else
+                {
+                    return _ordermanager.GetOrderbyId(id);
+                }
             }
         }
 
