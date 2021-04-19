@@ -22,6 +22,7 @@ namespace NavtechTest.Controllers
         [HttpGet]
         public IEnumerable<Order> Get()
         {
+            
             return _ordermanager.GetAllOrders();
         }
 
